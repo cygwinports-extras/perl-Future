@@ -1,0 +1,13 @@
+CPAN_AUTHOR=pevans
+inherit perl
+
+NAME="perl-Future"
+VERSION=0.29
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl asynchronous operation module"
+DESCRIPTION="A Perl 'Future' object represents an operation that is currently
+in progress, or has recently completed. It can be used in a variety of ways to
+manage the flow of control, and data, through an asynchronous program."
+
+ARCH=noarch
