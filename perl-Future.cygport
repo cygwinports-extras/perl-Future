@@ -2,7 +2,7 @@ CPAN_AUTHOR=pevans
 inherit perl
 
 NAME="perl-Future"
-VERSION=0.29
+VERSION=0.32
 RELEASE=1
 CATEGORY="Perl"
 SUMMARY="Perl asynchronous operation module"
